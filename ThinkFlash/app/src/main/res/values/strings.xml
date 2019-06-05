@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ThinkFlash</string>
+    <string name="toggle">Toggle</string>
+    <string name="bothOff">Waiting...</string>
+    <string name="bothOn">Flash and Music</string>
+    <string name="flashOn">Flash ON</string>
+    <string name="musicOn">Music On</string>
+    <string name="action_settings">App Settings</string>
+    <string name="action_exitApp">Exit Application</string>
+    <string name="action_retry">Retry Connection</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="frequency">Frequency</string>
+    <string name="ip">IP</string>
+    <string name="port">Port</string>
+    <string name="initialIP">192.168.1.7</string>
+    <string name="initialPort">1883</string>
+    <string name="eyesClosed">Eyes Closed</string>
+    <string name="eyesOpened">Eyes Opened</string>
+    <string name="dialog_title">Exit Application</string>
+    <string name="dialog_body">Are you sure you want to exit the application?</string>
+    <string name="wifi_dialog_title">You are offline</string>
+    <string name="wifi_dialog_body">Application requires internet access.\nWould you like to go to settings to enable it?</string>
+    <string name="error_dialog_title">Error</string>
+    <string name="error_dialog_body">Sorry, your device doesn\'t support flashlight</string>
+    <string name="same_opened_message">Received Eyes Opened again</string>
+    <string name="same_closed_message">Received Eyes Closed again</string>
+    <string name="connection_error">Could not connect to broker\nPlease check your settings</string>
+</resources>
